@@ -3,7 +3,7 @@
 
 
 ## 🔗Project  Link
-https://htmlTailwind-rodeClone.netlify.app/
+https://htmltailwind-rodeClone.netlify.app/
 
 This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**, built using **HTML5 and TAILWIND CSS**.
 <br>
